@@ -344,47 +344,6 @@ footer {
   gap: 3rem;
 }
 
-/* 
-
-.card-test {
-  margin: 2rem;
-  display: grid;
-  grid-template-columns: none;
-  grid-template-rows: repeat(3, auto);
-  max-width: 26rem;
-  background: #ffffff 0% 0% no-repeat padding-box;
-  box-shadow: 5px 10px 25px #00000029;
-  border-radius: 10px;
-}
-
-.image-div {
-  grid-column: 1 / 2;
-  grid-row: 1;
-}
-
-.image-div img {
-  max-width: 100%;
-  grid-row: 1;
-  object-fit: cover;
-  border-radius: 10px 10px 0 0;
-}
-
-.text-grid {
-  grid-row: 2;
-  width: 100%;
-  padding: 1rem;
-}
-
-.card-test .purchase {
-  border: none;
-  background: #c7417b;
-  color: white;
-  width: 100%;
-  border-radius: 0.5rem;
-  padding: 1rem;
-  grid-row: 3;
-} */
-
 @media screen and (max-width: 960px) {
   .logo {
     flex: 2 1 40rem;
